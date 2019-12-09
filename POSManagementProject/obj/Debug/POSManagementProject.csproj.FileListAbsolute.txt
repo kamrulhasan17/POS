@@ -1,0 +1,282 @@
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\ApplicationInsights.config
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\roslyn\csc.exe
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\roslyn\csc.exe.config
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\roslyn\csc.rsp
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\roslyn\csi.exe
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\roslyn\csi.rsp
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\roslyn\System.AppContext.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\roslyn\System.Collections.Immutable.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\roslyn\System.IO.FileSystem.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\roslyn\vbc.exe
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\roslyn\vbc.exe.config
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\roslyn\vbc.rsp
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\roslyn\VBCSCompiler.exe
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\roslyn\VBCSCompiler.exe.config
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\POSManagementProject.dll.config
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\POSManagementProject.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\POSManagementProject.pdb
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\Antlr3.Runtime.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\EntityFramework.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\EntityFramework.SqlServer.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\itextsharp.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\Microsoft.AI.DependencyCollector.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\Microsoft.AI.Web.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\Microsoft.AI.WindowsServer.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\Microsoft.ApplicationInsights.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\Newtonsoft.Json.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\System.Web.Helpers.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\System.Web.Mvc.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\System.Web.Optimization.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\System.Web.Razor.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\System.Web.WebPages.Deployment.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\System.Web.WebPages.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\System.Web.WebPages.Razor.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\WebGrease.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\EntityFramework.xml
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\EntityFramework.SqlServer.xml
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\itextsharp.xml
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\System.Web.Helpers.xml
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\System.Web.Mvc.xml
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\System.Web.Optimization.xml
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\System.Web.Razor.xml
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\System.Web.WebPages.xml
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\System.Web.WebPages.Deployment.xml
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\System.Web.WebPages.Razor.xml
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\Antlr3.Runtime.pdb
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\Newtonsoft.Json.xml
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\Microsoft.ApplicationInsights.xml
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\Microsoft.AI.DependencyCollector.xml
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\Microsoft.AI.WindowsServer.xml
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\bin\Microsoft.AI.Web.xml
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\obj\Debug\POSManagementProject.Migrations.CategoryDTOUpdate.resources
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\obj\Debug\POSManagementProject.Migrations.updateCategory.resources
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\obj\Debug\POSManagementProject.Migrations.listAdd.resources
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\obj\Debug\POSManagementProject.Migrations.addItemCategory.resources
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\obj\Debug\POSManagementProject.Migrations.itemAdd.resources
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\obj\Debug\POSManagementProject.Migrations.expenseAdd.resources
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\obj\Debug\POSManagementProject.Migrations.modelAddOBE.resources
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\obj\Debug\POSManagementProject.Migrations.dateAdd.resources
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\obj\Debug\POSManagementProject.Migrations.addJoinDate.resources
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\obj\Debug\POSManagementProject.Migrations.partyAdd.resources
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\obj\Debug\POSManagementProject.Migrations.partyChange.resources
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\obj\Debug\POSManagementProject.Migrations.purchaseAdd.resources
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\obj\Debug\POSManagementProject.Migrations.expenseOpAdd.resources
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\obj\Debug\POSManagementProject.Migrations.expenseOperationAdd.resources
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\obj\Debug\POSManagementProject.Migrations.SalesOpAdd_StockAdd.resources
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\obj\Debug\POSManagementProject.Migrations.purchaseSalesNo.resources
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\obj\Debug\POSManagementProject.Migrations.expenseNoAdd.resources
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\obj\Debug\POSManagementProject.Migrations.preCodeAdded.resources
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\obj\Debug\POSManagementProject.csproj.GenerateResource.cache
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\obj\Debug\POSManagementProject.csproj.CoreCompileInputs.cache
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\obj\Debug\POSManagementProject.csproj.CopyComplete
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\obj\Debug\POSManagementProject.dll
+D:\Education\Kamrul\Project\POS-master\POSManagementProject\obj\Debug\POSManagementProject.pdb
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\ApplicationInsights.config
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\roslyn\csc.exe
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\roslyn\csc.exe.config
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\roslyn\csc.rsp
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\roslyn\csi.exe
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\roslyn\csi.rsp
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\roslyn\System.AppContext.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\roslyn\System.Collections.Immutable.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\roslyn\System.IO.FileSystem.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\roslyn\vbc.exe
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\roslyn\vbc.exe.config
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\roslyn\vbc.rsp
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\roslyn\VBCSCompiler.exe
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\roslyn\VBCSCompiler.exe.config
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\POSManagementProject.dll.config
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\POSManagementProject.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\POSManagementProject.pdb
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\Antlr3.Runtime.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\EntityFramework.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\EntityFramework.SqlServer.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\itextsharp.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\Microsoft.AI.DependencyCollector.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\Microsoft.AI.Web.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\Microsoft.AI.WindowsServer.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\Microsoft.ApplicationInsights.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\Newtonsoft.Json.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\System.Web.Helpers.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\System.Web.Mvc.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\System.Web.Optimization.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\System.Web.Razor.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\System.Web.WebPages.Deployment.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\System.Web.WebPages.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\System.Web.WebPages.Razor.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\WebGrease.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\EntityFramework.xml
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\EntityFramework.SqlServer.xml
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\itextsharp.xml
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\System.Web.Helpers.xml
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\System.Web.Mvc.xml
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\System.Web.Optimization.xml
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\System.Web.Razor.xml
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\System.Web.WebPages.xml
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\System.Web.WebPages.Deployment.xml
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\System.Web.WebPages.Razor.xml
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\Antlr3.Runtime.pdb
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\Newtonsoft.Json.xml
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\Microsoft.ApplicationInsights.xml
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\Microsoft.AI.DependencyCollector.xml
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\Microsoft.AI.WindowsServer.xml
+D:\Education\Kamrul\Project\POS\POSManagementProject\bin\Microsoft.AI.Web.xml
+D:\Education\Kamrul\Project\POS\POSManagementProject\obj\Debug\POSManagementProject.Migrations.CategoryDTOUpdate.resources
+D:\Education\Kamrul\Project\POS\POSManagementProject\obj\Debug\POSManagementProject.Migrations.updateCategory.resources
+D:\Education\Kamrul\Project\POS\POSManagementProject\obj\Debug\POSManagementProject.Migrations.listAdd.resources
+D:\Education\Kamrul\Project\POS\POSManagementProject\obj\Debug\POSManagementProject.Migrations.addItemCategory.resources
+D:\Education\Kamrul\Project\POS\POSManagementProject\obj\Debug\POSManagementProject.Migrations.itemAdd.resources
+D:\Education\Kamrul\Project\POS\POSManagementProject\obj\Debug\POSManagementProject.Migrations.expenseAdd.resources
+D:\Education\Kamrul\Project\POS\POSManagementProject\obj\Debug\POSManagementProject.Migrations.modelAddOBE.resources
+D:\Education\Kamrul\Project\POS\POSManagementProject\obj\Debug\POSManagementProject.Migrations.dateAdd.resources
+D:\Education\Kamrul\Project\POS\POSManagementProject\obj\Debug\POSManagementProject.Migrations.addJoinDate.resources
+D:\Education\Kamrul\Project\POS\POSManagementProject\obj\Debug\POSManagementProject.Migrations.partyAdd.resources
+D:\Education\Kamrul\Project\POS\POSManagementProject\obj\Debug\POSManagementProject.Migrations.partyChange.resources
+D:\Education\Kamrul\Project\POS\POSManagementProject\obj\Debug\POSManagementProject.Migrations.purchaseAdd.resources
+D:\Education\Kamrul\Project\POS\POSManagementProject\obj\Debug\POSManagementProject.Migrations.expenseOpAdd.resources
+D:\Education\Kamrul\Project\POS\POSManagementProject\obj\Debug\POSManagementProject.Migrations.expenseOperationAdd.resources
+D:\Education\Kamrul\Project\POS\POSManagementProject\obj\Debug\POSManagementProject.Migrations.SalesOpAdd_StockAdd.resources
+D:\Education\Kamrul\Project\POS\POSManagementProject\obj\Debug\POSManagementProject.Migrations.purchaseSalesNo.resources
+D:\Education\Kamrul\Project\POS\POSManagementProject\obj\Debug\POSManagementProject.Migrations.expenseNoAdd.resources
+D:\Education\Kamrul\Project\POS\POSManagementProject\obj\Debug\POSManagementProject.Migrations.preCodeAdded.resources
+D:\Education\Kamrul\Project\POS\POSManagementProject\obj\Debug\POSManagementProject.csproj.GenerateResource.cache
+D:\Education\Kamrul\Project\POS\POSManagementProject\obj\Debug\POSManagementProject.csproj.CoreCompileInputs.cache
+D:\Education\Kamrul\Project\POS\POSManagementProject\obj\Debug\POSManagementProject.csproj.CopyComplete
+D:\Education\Kamrul\Project\POS\POSManagementProject\obj\Debug\POSManagementProject.dll
+D:\Education\Kamrul\Project\POS\POSManagementProject\obj\Debug\POSManagementProject.pdb
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\ApplicationInsights.config
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\roslyn\csc.exe
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\roslyn\csc.exe.config
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\roslyn\csc.rsp
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\roslyn\csi.exe
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\roslyn\csi.rsp
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\roslyn\System.AppContext.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\roslyn\System.Collections.Immutable.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\roslyn\System.IO.FileSystem.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\roslyn\vbc.exe
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\roslyn\vbc.exe.config
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\roslyn\vbc.rsp
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\roslyn\VBCSCompiler.exe
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\roslyn\VBCSCompiler.exe.config
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\POSManagementProject.dll.config
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\POSManagementProject.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\POSManagementProject.pdb
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\Antlr3.Runtime.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\EntityFramework.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\EntityFramework.SqlServer.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\itextsharp.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\Microsoft.AI.DependencyCollector.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\Microsoft.AI.Web.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\Microsoft.AI.WindowsServer.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\Microsoft.ApplicationInsights.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\Newtonsoft.Json.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\System.Web.Helpers.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\System.Web.Mvc.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\System.Web.Optimization.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\System.Web.Razor.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\System.Web.WebPages.Deployment.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\System.Web.WebPages.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\System.Web.WebPages.Razor.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\WebGrease.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\EntityFramework.xml
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\EntityFramework.SqlServer.xml
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\itextsharp.xml
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\System.Web.Helpers.xml
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\System.Web.Mvc.xml
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\System.Web.Optimization.xml
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\System.Web.Razor.xml
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\System.Web.WebPages.xml
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\System.Web.WebPages.Deployment.xml
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\System.Web.WebPages.Razor.xml
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\Antlr3.Runtime.pdb
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\Newtonsoft.Json.xml
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\Microsoft.ApplicationInsights.xml
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\Microsoft.AI.DependencyCollector.xml
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\Microsoft.AI.WindowsServer.xml
+D:\Education\Final Project\project\Final\POS\POSManagementProject\bin\Microsoft.AI.Web.xml
+D:\Education\Final Project\project\Final\POS\POSManagementProject\obj\Debug\POSManagementProject.csprojAssemblyReference.cache
+D:\Education\Final Project\project\Final\POS\POSManagementProject\obj\Debug\POSManagementProject.Migrations.CategoryDTOUpdate.resources
+D:\Education\Final Project\project\Final\POS\POSManagementProject\obj\Debug\POSManagementProject.Migrations.updateCategory.resources
+D:\Education\Final Project\project\Final\POS\POSManagementProject\obj\Debug\POSManagementProject.Migrations.listAdd.resources
+D:\Education\Final Project\project\Final\POS\POSManagementProject\obj\Debug\POSManagementProject.Migrations.addItemCategory.resources
+D:\Education\Final Project\project\Final\POS\POSManagementProject\obj\Debug\POSManagementProject.Migrations.itemAdd.resources
+D:\Education\Final Project\project\Final\POS\POSManagementProject\obj\Debug\POSManagementProject.Migrations.expenseAdd.resources
+D:\Education\Final Project\project\Final\POS\POSManagementProject\obj\Debug\POSManagementProject.Migrations.modelAddOBE.resources
+D:\Education\Final Project\project\Final\POS\POSManagementProject\obj\Debug\POSManagementProject.Migrations.dateAdd.resources
+D:\Education\Final Project\project\Final\POS\POSManagementProject\obj\Debug\POSManagementProject.Migrations.addJoinDate.resources
+D:\Education\Final Project\project\Final\POS\POSManagementProject\obj\Debug\POSManagementProject.Migrations.partyAdd.resources
+D:\Education\Final Project\project\Final\POS\POSManagementProject\obj\Debug\POSManagementProject.Migrations.partyChange.resources
+D:\Education\Final Project\project\Final\POS\POSManagementProject\obj\Debug\POSManagementProject.Migrations.purchaseAdd.resources
+D:\Education\Final Project\project\Final\POS\POSManagementProject\obj\Debug\POSManagementProject.Migrations.expenseOpAdd.resources
+D:\Education\Final Project\project\Final\POS\POSManagementProject\obj\Debug\POSManagementProject.Migrations.expenseOperationAdd.resources
+D:\Education\Final Project\project\Final\POS\POSManagementProject\obj\Debug\POSManagementProject.Migrations.SalesOpAdd_StockAdd.resources
+D:\Education\Final Project\project\Final\POS\POSManagementProject\obj\Debug\POSManagementProject.Migrations.purchaseSalesNo.resources
+D:\Education\Final Project\project\Final\POS\POSManagementProject\obj\Debug\POSManagementProject.Migrations.expenseNoAdd.resources
+D:\Education\Final Project\project\Final\POS\POSManagementProject\obj\Debug\POSManagementProject.Migrations.preCodeAdded.resources
+D:\Education\Final Project\project\Final\POS\POSManagementProject\obj\Debug\POSManagementProject.csproj.GenerateResource.cache
+D:\Education\Final Project\project\Final\POS\POSManagementProject\obj\Debug\POSManagementProject.csproj.CoreCompileInputs.cache
+D:\Education\Final Project\project\Final\POS\POSManagementProject\obj\Debug\POSManagementProject.csproj.CopyComplete
+D:\Education\Final Project\project\Final\POS\POSManagementProject\obj\Debug\POSManagementProject.dll
+D:\Education\Final Project\project\Final\POS\POSManagementProject\obj\Debug\POSManagementProject.pdb
+D:\Education\Soft-Project\POSManagementProject\obj\Debug\POSManagementProject.dll
+D:\Education\Soft-Project\POSManagementProject\obj\Debug\POSManagementProject.pdb
